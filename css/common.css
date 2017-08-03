@@ -14,3 +14,19 @@ p {
 	font-weight: 300;
 	letter-spacing: 1px;
 }
+
+a.download {
+	color: #777777;
+	text-decoration: none;
+	border: 1px solid #777777;
+	border-radius: 6px;
+	display: inline-block;
+	line-height: 0;
+	-webkit-transition: background 0.3s;
+	        transition: background 0.3s;
+}
+
+#downloadText {
+	margin-left: 10px;
+	margin-right: 10px;
+}
