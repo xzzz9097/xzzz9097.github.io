@@ -29,7 +29,7 @@ ul li {
 	position: relative;
 }
 
-a.download {
+a.transparentButton {
 	color: #777;
 	text-decoration: none;
 	border: 1px solid #777;
@@ -41,7 +41,7 @@ a.download {
 	        transition: background 0.3s;
 }
 
-#downloadText {
+#transparentButtonText {
 	margin-left: 10px;
 	margin-right: 10px;
 }
