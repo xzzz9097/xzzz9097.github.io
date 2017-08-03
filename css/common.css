@@ -20,6 +20,8 @@ ul {
 	display: inline;
 	margin: 0 0.4em;
 	list-style-type: none;
+	padding: 0;
+	margin: 0
 }
 
 ul li {
