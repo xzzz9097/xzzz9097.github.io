@@ -16,6 +16,19 @@ p {
 	letter-spacing: 1px;
 }
 
+ul {
+	display: inline;
+	margin: 0 0.4em;
+	list-style-type: none;
+}
+
+ul li {
+	display: inline-block;
+	float: none;
+	margin: 4px;
+	position: relative;
+}
+
 a.download {
 	color: #777;
 	text-decoration: none;
