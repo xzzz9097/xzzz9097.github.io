@@ -31,6 +31,11 @@ ul li {
 	position: relative;
 }
 
+a.subtleLink {
+	color: #798083;
+	text-decoration: none;
+}
+
 a.transparentButton {
 	color: #798083;
 	text-decoration: none;
